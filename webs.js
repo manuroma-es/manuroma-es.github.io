@@ -10,7 +10,7 @@ window.WEBS = {
       img: "img/tarjetas/obraservi360.webp",
       texto: "Reformas, estructuras metálicas, jardinería y electricidad en toda la provincia de Cádiz, con un solo equipo." },
     { nombre: "ASIDI PRO", etiqueta: "Plataforma B2B · Cliente", url: "https://asidipro.com/",
-      img: "img/tarjetas/asidipro.webp",
+      img: "img/tarjetas/asidipro.webp?v=2",
       texto: "Plataforma de anuncios B2B de maquinaria, materiales, transporte y equipamiento industrial, ordenada por categorías." },
     { nombre: "Susurro de Arabia", etiqueta: "Tienda online · Cliente", url: "https://susurrodearabia.com/",
       img: "img/tarjetas/susurrodearabia.webp",
