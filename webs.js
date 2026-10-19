@@ -3,7 +3,10 @@ window.WEBS = {
   demos: [
     { nombre: "Brasa Negra", etiqueta: "Hamburguesería · Demo", url: "https://manuroma-es.github.io/brasa-negra/",
       img: "img/tarjetas/brasa-negra.webp", pos: "left center",
-      texto: "Smash burgers a la brasa. Montaje con scroll, carta animada, reservas y mapa con humo." }
+      texto: "Smash burgers a la brasa. Montaje con scroll, carta animada, reservas y mapa con humo." },
+    { nombre: "Álex Vega", etiqueta: "Entrenador personal · Demo", url: "https://manuroma-es.github.io/alex-vega/",
+      img: "img/tarjetas/alex-vega.webp", pos: "center top",
+      texto: "Entrenador personal en negro y verde lima. Vídeo con scroll, giro 360°, planes, ruta animada y llamada final a WhatsApp." }
   ],
   clientes: [
     { nombre: "obraservi360", etiqueta: "Reformas y servicios · Cliente", url: "https://obraservi360.com/",
