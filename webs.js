@@ -5,7 +5,7 @@ window.WEBS = {
       img: "img/tarjetas/brasa-negra.webp", pos: "left center",
       texto: "Smash burgers a la brasa. Montaje con scroll, carta animada, reservas y mapa con humo." },
     { nombre: "Álex Vega", etiqueta: "Entrenador personal · Demo", url: "https://manuroma-es.github.io/alex-vega/",
-      img: "img/tarjetas/alex-vega.webp", pos: "center top",
+      img: "img/tarjetas/alex-vega.webp?v=2", pos: "left center",
       texto: "Entrenador personal en Jerez. Portada con scroll, giro de 360°, antes y después, planes en abanico y mapa con ruta animada." }
   ],
   clientes: [
