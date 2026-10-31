@@ -1,4 +1,8 @@
-// Para añadir una web nueva: copia un bloque, cambia los datos y guarda.
+// Cómo añadir una demo o un cliente nuevo:
+//  1. Deja su miniatura en img/tarjetas/ (webp 1200×750 o 1200×630, captura real de la web, no IA).
+//  2. Copia un bloque { ... } en «demos» o en «clientes» (en el orden en que debe salir) y cambia
+//     nombre, etiqueta («Sector · Demo» / «Sector · Cliente»), url, img, texto y, si hace falta, pos (encuadre de la foto).
+//  3. Guarda y sube. El contador de la pestaña y los botones Ver web / Copiar / WhatsApp salen solos.
 window.WEBS = {
   demos: [
     { nombre: "Brasa Negra", etiqueta: "Hamburguesería · Demo", url: "https://manuroma-es.github.io/brasa-negra/",
@@ -6,7 +10,10 @@ window.WEBS = {
       texto: "Smash burgers a la brasa. Montaje con scroll, carta animada, reservas y mapa con humo." },
     { nombre: "Álex Vega", etiqueta: "Entrenador personal · Demo", url: "https://manuroma-es.github.io/alex-vega/",
       img: "img/tarjetas/alex-vega.webp?v=2", pos: "left center",
-      texto: "Entrenador personal en Jerez. Portada con scroll, giro de 360°, antes y después, planes en abanico y mapa con ruta animada." }
+      texto: "Entrenador personal en Jerez. Portada con scroll, giro de 360°, antes y después, planes en abanico y mapa con ruta animada." },
+    { nombre: "Clic 24", etiqueta: "Cerrajería · Demo", url: "https://manuroma-es.github.io/clic24/",
+      img: "img/tarjetas/clic24.webp", pos: "left center",
+      texto: "Cerrajeros 24 horas en Cuenca. Puerta que se abre con el scroll, apertura de coches y cajas fuertes, y mapa con ruta animada." }
   ],
   clientes: [
     { nombre: "obraservi360", etiqueta: "Reformas y servicios · Cliente", url: "https://obraservi360.com/",
